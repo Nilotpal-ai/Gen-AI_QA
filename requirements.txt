@@ -1,0 +1,22 @@
+langchain==""
+qdrant-client==""
+transformers==""
+torch=="" 
+sentence-transformers==""
+pymupdf
+
+
+protobuf==3.20.*
+streamlit==1.36.0
+pypdf==4.2.0
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-huggingface==0.0.3
+python-dotenv
+pdfplumber==0.11.5
+Pillow
+sentence_transformers
+torch
+qdrant-client
+
+pip install -r requirements.txt
